@@ -15,3 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# conversores" 
+
+Nessa atualizaçao, é possivel Pegar um arquivo PDF que foi recebido em Base64 e converte-lo
+novamente para visualização em PDF.
+Ex. Prático: Irei consumir de uma API um documento que foi salvo em Formato Blob, para receber esse request
+criei uma função no Banco de dados de converte o Blob para Base64, facilitando a comunicação.
+
+Na interface do usuário, irei mostrar o documento e disponibilizar para impressão.
